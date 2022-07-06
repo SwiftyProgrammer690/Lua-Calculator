@@ -1,3 +1,7 @@
+-- Made with lua --
+-- @SwaritChoudhari on replit --
+
+
 -- Load ASCII art --
 asciiArt1 = [[
   ___                                                  
